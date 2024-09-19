@@ -13,5 +13,5 @@ My research interests include high-dimensional econometrics, time series, machin
 
 ---
 
-* **Email**: <yishuwang@cuhk.edu.hk>; <wangy@link.cuhk.edu.hk>
+* **Email**: <yishuwang@cuhk.edu.hk>
 * **Address**: 9F, Esther Lee Building, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong SAR, China
